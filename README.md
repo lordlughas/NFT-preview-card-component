@@ -1,8 +1,4 @@
-# ![active state](https://user-images.githubusercontent.com/97691847/170637896-ccb804d5-1110-4549-bece-ac2dce1b4d9b.PNG)
-![nftpreviewcardcomponent](https://user-images.githubusercontent.com/97691847/170637898-08d03cf2-5804-4e62-856e-ed146c04c60f.PNG)
-![Screenshot (imghvr)](https://user-images.githubusercontent.com/97691847/170637900-4dc49cab-4d33-468e-b7b4-d0e49c7aed99.png)
-![Screenshot (namehvr)](https://user-images.githubusercontent.com/97691847/170637901-25ecd922-2f31-47d3-aaba-7a5574585fcc.png)
-NFT preview card component solution
+# NFT preview card component solution
 
 ## Table of contents
 
@@ -30,11 +26,10 @@ NFT preview card component solution
 
 ### Screenshot
 
-![](./Design/active-state.jpg)
-![](./Design/Screenshot(full).png)
-![](./Design/Screenshot(headhvr).png)
-![](./Design/Screenshot(imghvr).png)
-![](./Design/Screenshot(namehvr).png)
+![active state](https://user-images.githubusercontent.com/97691847/170637896-ccb804d5-1110-4549-bece-ac2dce1b4d9b.PNG)
+![nftpreviewcardcomponent](https://user-images.githubusercontent.com/97691847/170637898-08d03cf2-5804-4e62-856e-ed146c04c60f.PNG)
+![Screenshot (imghvr)](https://user-images.githubusercontent.com/97691847/170637900-4dc49cab-4d33-468e-b7b4-d0e49c7aed99.png)
+![Screenshot (namehvr)](https://user-images.githubusercontent.com/97691847/170637901-25ecd922-2f31-47d3-aaba-7a5574585fcc.png)
 
 ### Links
 
