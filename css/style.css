@@ -3,7 +3,7 @@ body{
   background-color:hsl(217, 54%, 11%);
   font-family: 'Outfit', sans-serif;
 }
-h2{
+h1{
   color:hsl(0, 0%, 100%);
 }
 hr{
@@ -20,7 +20,7 @@ p{
 .container{
   background-color: hsl(216, 50%, 16%);
   border: 15px;
-  border-radius: 3%;
+  border-radius: 15px;
   border-color: red;
   border-width: 10px;
   height: 600px;
@@ -36,14 +36,14 @@ p{
 .img-equi{
   width:300px;
   height:300px;
-  border-radius: 3%;
+  border-radius: 15px;
   margin: 0 auto 0;
 }
 .jules-img{
   border-width:3px;
   border-style: solid;
   border-color: hsl(0, 0%, 100%);
-  border-radius: 50%;
+  border-radius: 125px;
   width: 50px;
   display: inline;
   float: left;
@@ -58,12 +58,12 @@ p{
   height: 300px;
   width: 300px;
   opacity: 0;
-  border-radius: 3%;
+  border-radius: 15px;
   transition: .5s ease;
-  background-color: hsl(178, 100%, 50%);
+  background-color: hsl(178, 100%, 50%, 0.5);
 }
 .image:hover .overlay {
-  opacity: 0.5;
+  opacity: 1;
 }
 .eye {
   color: white;
